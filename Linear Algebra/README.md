@@ -8,4 +8,5 @@
 課程章節| 
 ---- |
 [Lecture 1~5](https://hackmd.io/pgILk_IjRpmrjmLuXalx7w?view)
+[Lecture 6~10](https://hackmd.io/DDgAD5M4SI2x6JuXBpqGDA?view)
 
